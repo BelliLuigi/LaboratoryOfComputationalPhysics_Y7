@@ -1,0 +1,16 @@
+--2024-11-06 11:10:51--  https://www.dropbox.com/scl/fi/bxv17nrbrl83vw6qrkiu9/LCP_22-23_students.csv?rlkey=47fakvatrtif3q3qw4q97p5b7
+Resolving www.dropbox.com (www.dropbox.com)... 162.125.69.18, 2620:100:6025:18::a27d:4512
+Connecting to www.dropbox.com (www.dropbox.com)|162.125.69.18|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc045200f493f39046255053996.dl.dropboxusercontent.com/cd/0/inline/Cd3AKuxi93JFXJXFf3xd8_uoNSQykqt3WH13aALvI-oVt8LWTTCjvJMRGDYYEK7D6VsZJE0Mk81LA3o0BPRxofRJtsgjxj6rFTAxWFwiGTKT2ASOgi6vULL_XNB5l6N-40o/file# [following]
+--2024-11-06 11:10:52--  https://ucc045200f493f39046255053996.dl.dropboxusercontent.com/cd/0/inline/Cd3AKuxi93JFXJXFf3xd8_uoNSQykqt3WH13aALvI-oVt8LWTTCjvJMRGDYYEK7D6VsZJE0Mk81LA3o0BPRxofRJtsgjxj6rFTAxWFwiGTKT2ASOgi6vULL_XNB5l6N-40o/file
+Resolving ucc045200f493f39046255053996.dl.dropboxusercontent.com (ucc045200f493f39046255053996.dl.dropboxusercontent.com)... 162.125.69.15, 2620:100:6025:15::a27d:450f
+Connecting to ucc045200f493f39046255053996.dl.dropboxusercontent.com (ucc045200f493f39046255053996.dl.dropboxusercontent.com)|162.125.69.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4405 (4.3K) [text/plain]
+Saving to: ‘LCP_22-23_students.csv?rlkey=47fakvatrtif3q3qw4q97p5b7’
+
+            LCP_22-23_s   0%[                              ]       0  --.-KB/s               LCP_22-23_students.csv? 100%[=============================>]   4.30K  --.-KB/s    in 0s      
+
+2024-11-06 11:10:53 (1008 MB/s) - ‘LCP_22-23_students.csv?rlkey=47fakvatrtif3q3qw4q97p5b7’ saved [4405/4405]
+
