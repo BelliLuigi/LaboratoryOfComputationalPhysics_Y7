@@ -1,2 +1,2 @@
 def fpy(number):
-    return print("pong")
+    return number 

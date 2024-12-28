@@ -2,7 +2,8 @@
 ## Or things that I have done
 
 - Reviewed and commented 00exes. 100% sure about them 
-- Starting 01ex
+- Reviewed and commented 01exes. 100% sure about them
+- Tomorrow will start review of 02.
 
 
 # Laboratory of Computational Physics (mod. A)
