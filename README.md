@@ -1,3 +1,10 @@
+# Changelog
+## Or things that I have done
+
+- Reviewed and commented 00exes. 100% sure about them 
+- Starting 01ex
+
+
 # Laboratory of Computational Physics (mod. A)
 
 This is the official repository of the course, and contains the Jupyter Notebooks guiding students through the world of data analysis with python.
