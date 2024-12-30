@@ -4,7 +4,7 @@
 - Reviewed and commented 00exes. 100% sure about them 
 - Reviewed and commented 01exes. 100% sure about them
 - Reviewed and commented 02exes. 100% sure about them
-
+- Reviewed and commented 03exes. 100% sure about them
 
 
 # Laboratory of Computational Physics (mod. A)
