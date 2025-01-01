@@ -5,7 +5,7 @@
 - Reviewed and commented 01exes. 100% sure about them
 - Reviewed and commented 02exes. 100% sure about them
 - Reviewed and commented 03exes. 100% sure about them
-
+- Reviewed not commented 04exes. 99% sure about them. The one of walkers I need to compare w/ others. Also Erathostenes.
 
 # Laboratory of Computational Physics (mod. A)
 
